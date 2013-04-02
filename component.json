@@ -1,0 +1,11 @@
+{
+    "name":"emitter-all",
+    "description":"Enhances component/emitter in order to allow listening to ALL events.",
+    "keywords": ["emitter", "events", "all"],
+    "version":"0.0.1",
+    "dependencies":{
+        "component/emmitter":"*",
+        "component/indexof": "*"
+    },
+    "scripts": ["index.js"]
+}
