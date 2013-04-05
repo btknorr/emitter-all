@@ -7,7 +7,7 @@
     </list>
     <ignored path="emitter-all.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365177980439" ignored="false" />
+    <file path="/Dummy.txt" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178201477" ignored="false" />
     <file path="/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365115551922" ignored="false" />
     <file path="/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178183148" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/widgets-ui/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364928802534" ignored="false" />
@@ -50,7 +50,7 @@
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/components-widgets/web-app/assets/html/index.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365116750332" ignored="false" />
     <file path="/index.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365116639585" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/components-web-apps/store-availability/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364937565754" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/build/build.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178082537" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/build/build.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178263425" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-store-availability/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365115728151" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/components-shared/gs-store-availability/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364938372420" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-store-availability/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365115718391" ignored="false" />
@@ -83,8 +83,8 @@
     <file path="$PROJECT_DIR$/../gamestop-power-up/Resources/gs-store-availability/build.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365116784320" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/Resources/gs-store-availability/gs-store-availability/summary.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365107765726" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/Resources/gs-store-availability/gs-store-availability/view.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365107765726" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/build/gs/index.html" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178082537" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/components/gamestop-superagent/lib/client.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178082537" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/build/gs/index.html" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178263425" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/components/gamestop-superagent/lib/client.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178263425" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-controller/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365177168114" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +117,7 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="33" selection-start="468" selection-end="468" vertical-scroll-proportion="0.09142857">
+            <state line="19" column="18" selection-start="523" selection-end="523" vertical-scroll-proportion="0.12571429">
               <folding />
             </state>
           </provider>
@@ -255,7 +255,11 @@
       <created>1365177983375</created>
       <updated>1365177983375</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor">
+      <created>1365178203818</created>
+      <updated>1365178203818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -368,7 +372,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="468" selection-end="468" vertical-scroll-proportion="0.09142857">
+        <state line="19" column="18" selection-start="523" selection-end="523" vertical-scroll-proportion="0.12571429">
           <folding />
         </state>
       </provider>
