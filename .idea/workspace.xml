@@ -7,9 +7,9 @@
     </list>
     <ignored path="emitter-all.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188596012" ignored="false" />
+    <file path="/Dummy.txt" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188759276" ignored="false" />
     <file path="/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365115551922" ignored="false" />
-    <file path="/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188681260" ignored="false" />
+    <file path="/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365189122061" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/widgets-ui/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364928802534" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/alloy.jmk" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365106755191" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/build/iphone/build/Debug-iphonesimulator/GameStop.app/alloy/sync/sql.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364928929707" ignored="false" />
@@ -50,7 +50,7 @@
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/components-widgets/web-app/assets/html/index.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365116750332" ignored="false" />
     <file path="/index.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365116639585" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/components-web-apps/store-availability/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364937565754" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/build/build.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188640102" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/build/build.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188973588" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-store-availability/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365115728151" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/app/components-shared/gs-store-availability/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1364938372420" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-store-availability/component.json" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365115718391" ignored="false" />
@@ -83,11 +83,11 @@
     <file path="$PROJECT_DIR$/../gamestop-power-up/Resources/gs-store-availability/build.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365116784320" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/Resources/gs-store-availability/gs-store-availability/summary.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365107765726" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-power-up/Resources/gs-store-availability/gs-store-availability/view.ejs" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365107765726" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/build/gs/index.html" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188640102" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/components/gamestop-superagent/lib/client.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188640102" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/build/gs/index.html" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188973588" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/components/gamestop-superagent/lib/client.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188973588" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-controller/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365177168114" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178493835" ignored="false" />
-    <file path="$PROJECT_DIR$/../gamestop-web/build/build.css" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188640102" ignored="false" />
+    <file path="$PROJECT_DIR$/../gamestop-web/build/build.css" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365188973588" ignored="false" />
     <file path="$PROJECT_DIR$/../gamestop-web/components-local/gs-nav/index.js" changelist="4dccae5e-a30c-496f-b516-875fdf10de89" time="1365178548150" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,7 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="44" selection-start="636" selection-end="636" vertical-scroll-proportion="0.24980174">
+            <state line="19" column="31" selection-start="542" selection-end="542" vertical-scroll-proportion="0.2260111">
               <folding />
             </state>
           </provider>
@@ -282,7 +282,11 @@
       <created>1365188598198</created>
       <updated>1365188598198</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="refactor">
+      <created>1365188761113</created>
+      <updated>1365188761113</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +297,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2517263" sideWeight="0.99850744" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2517263" sideWeight="0.99850744" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -395,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="636" selection-end="636" vertical-scroll-proportion="0.24980174">
+        <state line="19" column="31" selection-start="542" selection-end="542" vertical-scroll-proportion="0.2260111">
           <folding />
         </state>
       </provider>

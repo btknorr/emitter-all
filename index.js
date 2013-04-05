@@ -16,16 +16,11 @@ function EmitterAll(obj) {
     };
 
     var aliasEmit = emitter.emit;
-    emitter.emit = function(event){
-        var aliasArgs = [].slice.call(arguments, 1);
-        aliasArgs.unshift(event);
-        console.log('aliasArgs='+aliasArgs);
-        aliasEmit.apply(emitter, aliasArgs);
+    emitter.emit = function(event, data){
+        aliasEmit(event, data);
         if (this._allCallbacks) {
-            var args = [].slice.call(arguments, 1);
-            args.unshift(event);
             for (var i = 0, len = this._allCallbacks.length; i < len; ++i) {
-                this._allCallbacks[i].apply(this, args);
+                this._allCallbacks[i](event, data);
             }
         }
     };
