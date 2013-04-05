@@ -17,9 +17,10 @@ function EmitterAll(obj) {
 
     var aliasEmit = emitter.emit;
     emitter.emit = function(event){
-        console.log('aliasEmit='+aliasEmit.toString());
-        console.log('arguments='+[].slice.call(arguments));
-        aliasEmit.apply(emitter, [].slice.call(arguments));
+        var aliasArgs = [].slice.call(arguments, 1);
+        aliasArgs.unshift(event);
+        console.log('aliasArgs='+aliasArgs);
+        aliasEmit.apply(emitter, aliasArgs);
         if (this._allCallbacks) {
             var args = [].slice.call(arguments, 1);
             args.unshift(event);
