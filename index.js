@@ -57,3 +57,5 @@ Emitter.prototype.hasListeners = function(event){
     }
     return aliasHasListeners();
 };
+
+module.exports = Emitter;
