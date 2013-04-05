@@ -4,8 +4,8 @@
     "keywords": ["emitter", "events", "all"],
     "version":"0.0.1",
     "dependencies":{
-        "component/emmitter":"*",
+        "component/emitter":"*",
         "component/indexof": "*"
     },
     "scripts": ["index.js"]
-}
+}`
